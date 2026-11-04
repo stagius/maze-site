@@ -1,0 +1,4 @@
+include:
+  - zones.json
+exclude:
+  - README.md
